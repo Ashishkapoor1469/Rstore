@@ -5,7 +5,7 @@ export function Footer() {
         <footer className='bg-black text-white'>
             <div className='max-w-[1240px] mx-auto py-2 text-sm sm:text-base'>
                 <div className='flex justify-center'>
-                    <a href='https://github.com/VolodymyrGoshko/react-shop'
+                    <a href='https://github.com/Ashishkapoor1469/Rstore'
                        target='_blank'
                        rel="noreferrer"
                        className='capitalize border-b mb-3 text-base hover:text-gray-300 transition'
